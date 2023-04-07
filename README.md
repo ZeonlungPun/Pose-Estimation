@@ -13,3 +13,8 @@ https://www.youtube.com/watch?v=p5Z_GGRCI5s
 
 
 https://www.youtube.com/watch?v=H7cGq0xIHbc&t=4s
+
+
+the key points estimated in body is 
+
+
