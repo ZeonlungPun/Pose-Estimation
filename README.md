@@ -17,4 +17,6 @@ https://www.youtube.com/watch?v=H7cGq0xIHbc&t=4s
 
 the key points estimated in body is 
 
+![Image text](https://github.com/ZeonlungPun/Pose-Estimation/blob/main/POSE.png)
+
 
